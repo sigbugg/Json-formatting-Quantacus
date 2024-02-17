@@ -1,0 +1,21 @@
+campaign_id,campaign_name,clicks,conversions,cost,impressions,conversion_value,CPA,CTR,ROAS,scenario,reasoning
+20525429499,EN_Sale_P Max _PIN Code,45837,252.45,2666.46,3063577,96607.91,10.56,0.01,36.23,Campaign is too new to assess the performance,N/A
+19797614576,EN_Sale_P Max _ALL Product _Remarketing,181132,882.2,7229.8,11634742,332968.37,8.2,0.02,46.05,Cost-Effective Scenario,"CPA < 300, CTR > 0.01, ROAS >= 1"
+20989518467,Sale Video Campaign - 2024,39872,84.0,631.78,2628640,26549.25,7.52,0.02,42.02,Cost-Effective Scenario,"CPA < 300, CTR > 0.01, ROAS >= 1"
+20263173793,Pmax_TDK New Audience_Mayyank,217186,1264.35,11188.94,13765984,333784.13,8.85,0.02,29.83,Cost-Effective Scenario,"CPA < 300, CTR > 0.01, ROAS >= 1"
+19798568578,Clearance Sale - 2023 - Performance - 2,213115,2086.55,13864.16,16781345,758944.83,6.64,0.01,54.74,Campaign is too new to assess the performance,N/A
+19785409662,Selected Category - Sale - 2024,27008,29.99,1828.75,2523680,2774.0,60.98,0.01,1.52,Campaign is too new to assess the performance,N/A
+20977281338,Sale - 2024 - Performance Max,119510,828.36,7316.51,7568669,362612.77,8.83,0.02,49.56,Cost-Effective Scenario,"CPA < 300, CTR > 0.01, ROAS >= 1"
+20966701834,Sale_Pmax_Decor,7944,48.31,622.8,572760,17541.63,12.89,0.01,28.17,Campaign is too new to assess the performance,N/A
+19797614576,Mayyank_P_Max _ALL Product_Remarketing,530458,2583.57,21173.0,34073173,975121.65,8.2,0.02,46.05,Cost-Effective Scenario,"CPA < 300, CTR > 0.01, ROAS >= 1"
+20525429499,Sale_P Max _PIN Code,212517,1170.43,12362.68,14203857,447909.38,10.56,0.01,36.23,Campaign is too new to assess the performance,N/A
+19642167054,Lighting | Mayyank #2,246698,2218.44,20865.62,21067600,1392937.71,9.41,0.01,66.76,Campaign is too new to assess the performance,N/A
+20982516907,Lighting | Mayyank - Keyword,307278,18.51,1362.53,7208874,5087.25,73.61,0.04,3.73,High-Performance Scenario,"ROAS > 1.5, CPA < 300, CTR > 0.025"
+19785409662,Clearance Sale - 2023,77648,86.21,5257.66,7255580,7975.25,60.99,0.01,1.52,Campaign is too new to assess the performance,N/A
+19798568578,Sale - 2023 - Performance - 2,164403,1609.62,10695.21,12945609,585471.72,6.64,0.01,54.74,Campaign is too new to assess the performance,N/A
+16541551188,EN_Search_Brand,50303,1285.18,4414.54,106172,598369.22,3.43,0.47,135.55,High-Performance Scenario,"ROAS > 1.5, CPA < 300, CTR > 0.025"
+16541551188,Search_Brand-Mayyank,233223,5958.57,20467.43,492252,2774257.3,3.43,0.47,135.54,High-Performance Scenario,"ROAS > 1.5, CPA < 300, CTR > 0.025"
+19797614576,Sale_P_Max _ALL Product_Remarketing,90566,441.1,3614.9,5817371,166484.18,8.2,0.02,46.05,Cost-Effective Scenario,"CPA < 300, CTR > 0.01, ROAS >= 1"
+832958820,Brand Name - Mayyank,0,0.0,0.0,62,0.0,0.0,0.0,0.0,Reassess Scenario,"ROAS < 1, CPA > 700, CTR < 0.01"
+20992846507,Demand Gen – 2024-02-01,63868,0.55,681.42,3819396,34.23,1238.95,0.02,0.05,Reassess Scenario,"ROAS < 1, CPA > 700, CTR < 0.01"
+20998677335,Mayyank_P_Max _Customer_Match,5620,5.0,415.43,431200,437.5,83.09,0.01,1.05,Campaign is too new to assess the performance,N/A
